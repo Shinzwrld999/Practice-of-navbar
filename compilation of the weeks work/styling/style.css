@@ -1,0 +1,28 @@
+.title-head {
+    margin: 20px 200px 50px 200px;
+    text-decoration: underline gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+.title-bar {
+    border: 10px double teal
+}
+.title-logo {
+    border: 2px dotted blueviolet;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    display: grid;
+    place-content: center;
+}
+.list-items a {
+    display:grid;
+    text-decoration: none;
+}
+.list-items a :hover {
+    text-decoration: dotted;
+    background-color:orchid;
+    
+}
+
